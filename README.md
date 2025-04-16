@@ -42,3 +42,6 @@ Puedes escribirme por:
 ---
 
 Gracias por pasarte por mi perfil 🙌
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielG&show_icons=true&theme=radical)
+
