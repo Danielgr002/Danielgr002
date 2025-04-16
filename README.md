@@ -32,7 +32,7 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danielgr002&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Danielgr002&theme=radical&hide_border=true" />
 </div>
 
 ---
