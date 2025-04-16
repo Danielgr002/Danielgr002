@@ -32,7 +32,7 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danielgr002&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Danielgr002&bg_color=1e1e1e&color=00ffe1&line=00ffe1&point=ffffff&area=true&hide_border=true" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Danielgr002&theme=radical&hide_border=true)
 </div>
 
 ---
