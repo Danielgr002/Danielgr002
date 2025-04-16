@@ -1,48 +1,24 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Daniel!;Estudiante+de+DAM;Me+gusta+crear+apps+multiplataforma)
 # 👋 ¡Hola! Soy Daniel
 
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
-📍 España  
-💻 Apasionado por el desarrollo móvil, web y multiplataforma  
-☕ Aprendiendo cada día algo nuevo... y con mucho café de por medio
+💻 Me gusta programar, aprender nuevas tecnologías y crear apps útiles  
+☕ Sobreviviendo a base de café y código
 
 ---
 
-### 🧰 Tecnologías y herramientas que estoy usando / aprendiendo
-
-- 💻 Lenguajes: `Java`, `Kotlin`, `SQL`, algo de `HTML`/`CSS`
-- 📱 Desarrollo móvil con Android Studio
-- 🖥️ Aplicaciones de escritorio con Angular
-- 🛠️ Git y GitHub para control de versiones
-- 🐘 Bases de datos con MySQL y SQLite
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Daniel!;Estudiante+de+DAM;Me+gusta+crear+apps+multiplataforma)
 
 ---
 
-### 🚀 Algunos de mis objetivos
+## 🚀 Tecnologías que uso
 
-- Terminar el ciclo con buenos proyectos y más experiencia real
-- Aprender `Flutter` o `React Native` para apps multiplataforma
-- Seguir mejorando y no tenerle miedo a los errores 😅
-
----
-
-### 📌 Un poco más sobre mí
-
-Me gusta programar, pero también todo lo relacionado con los videojuegos 🎮, y descubrir nuevas herramientas tech.  
-En este perfil vas a encontrar prácticas, proyectos personales, experimentos, y seguramente algún que otro desastre de código (parte del proceso, ¿no? 😅)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 📬 ¿Querés contactarme?
+## 📈 GitHub Stats
 
-Puedes escribirme por:
-
-- 📧 Email: danielartana5@gmail.com
-<!-- - 📱 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario) -->
-
----
-
-Gracias por pasarte por mi perfil 🙌
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielG&show_icons=true&theme=radical)
-
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel123&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=daniel123&theme=dark)](https://git.io/streak-stats)
