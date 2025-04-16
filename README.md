@@ -34,7 +34,7 @@ En este perfil vas a encontrar prácticas, proyectos personales, experimentos, y
 
 ### 📬 ¿Querés contactarme?
 
-Podés escribirme por:
+Puedes escribirme por:
 
 - 📧 Email: danielartana5@gmail.com
 <!-- - 📱 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario) -->
