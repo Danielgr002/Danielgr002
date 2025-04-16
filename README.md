@@ -1,6 +1,6 @@
 <!-- Encabezado animado con efecto máquina de escribir -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=%C2%A1Hola%2C+soy+Daniel!;Estudiante+de+DAM;Apasionado+por+la+tecnolog%C3%ADa+y+el+c%C3%B3digo;Construyendo+apps+multiplataforma" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%C2%A1Hola%2C+soy+Daniel!;Estudiante+de+DAM;Apasionado+por+la+tecnolog%C3%ADa+y+el+c%C3%B3digo;Construyendo+apps+multiplataforma" alt="Typing SVG" />
 </p>
 
 ---
