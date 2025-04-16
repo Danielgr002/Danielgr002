@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Daniel!;Estudiante+de+DAM;Me+gusta+crear+apps+multiplataforma)
 # 👋 ¡Hola! Soy Daniel
 
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
